@@ -1,0 +1,19 @@
+{
+  "appKey": "gAzxgKlElwVqzfc2RwOROIyfm3KxGPjX",
+  "appSecret": "SdQ0ikHuUIPAnlUpvDi89FP999UE3KMo",
+  "projectId": "d79768fbec1ca99ae4f8cf38a65de077",
+  "id": 249,
+  "name": "ocp",
+  "framework": "vue",
+  "platform": "pc",
+  "description": "",
+  "git": {
+    "url": "https://github.com/Alex9a/ocp1.git",
+    "isPrivate": 0,
+    "username": "Alex9a",
+    "password": "Aa6735629"
+  },
+  "alias": {},
+  "pages": [],
+  "dependencies": []
+}
